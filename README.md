@@ -1,4 +1,4 @@
-![Screenshot do Login](assts/image.png)
+![Screenshot do Login](assets/image.png)
 
 # Sistema de Login e Cadastro
 
