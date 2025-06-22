@@ -1,3 +1,5 @@
+![Screenshot do Login](assts/image.png)
+
 # Sistema de Login e Cadastro
 
 Sistema completo de autenticação com frontend React e backend Flask, incluindo banco de dados simples e navegação entre telas.
